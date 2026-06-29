@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 240" width="100%" height="100%">
+    <defs>
+        <linearGradient id="padFace_6a427de399589" x1="0%" y1="0%" x2="0%" y2="100%">
+            <stop offset="0%" stop-color="#1e293b" />
+            <stop offset="100%" stop-color="#0f172a" />
+        </linearGradient>
+    </defs>
+    
+    <!-- Outer background shadow -->
+    <rect x="52" y="12" width="96" height="126" rx="26" fill="rgba(0,0,0,0.06)"/>
+    
+    <!-- Grip / Handle -->
+    <rect x="91" y="135" width="18" height="85" rx="4" fill="#ffffff" stroke="#94a3b8" stroke-width="1"/>
+    <!-- Grip wrap lines -->
+    <path d="M 91 150 L 109 155 M 91 165 L 109 170 M 91 180 L 109 185 M 91 195 L 109 200 M 91 210 L 109 215" stroke="#e2e8f0" stroke-width="1"/>
+    <rect x="88" y="215" width="24" height="10" rx="2" fill="#0f172a"/>
+    
+    <!-- Throat/neck -->
+    <path d="M 82 135 L 118 135 L 110 120 L 90 120 Z" fill="#475569"/>
+    
+    <!-- Paddle Face -->
+    <rect x="50" y="10" width="100" height="120" rx="24" fill="url(#padFace_6a427de399589)" stroke="#1e293b" stroke-width="2"/>
+    
+    <!-- Outer edge guard -->
+    <rect x="48" y="8" width="104" height="124" rx="26" fill="none" stroke="#06b6d4" stroke-width="3"/>
+    
+    <!-- Graphic decals on face -->
+    <path d="M 60 25 Q 100 15 140 25" fill="none" stroke="#06b6d4" stroke-width="3"/>
+    <path d="M 60 115 Q 100 125 140 115" fill="none" stroke="#06b6d4" stroke-width="3"/>
+    
+    <!-- Brand / Text -->
+    <text x="100" y="55" font-family="'Arial', sans-serif" font-size="15" font-weight="900" fill="#ffffff" text-anchor="middle" letter-spacing="2">JOOLA</text>
+    <text x="100" y="75" font-family="'Arial', sans-serif" font-size="9" font-weight="900" fill="#06b6d4" text-anchor="middle" letter-spacing="1">HYPERION PRO</text>
+    <text x="100" y="95" font-family="'Arial', sans-serif" font-size="6" font-weight="700" fill="rgba(255,255,255,0.4)" text-anchor="middle" letter-spacing="1.5">PROFESSIONAL</text>
+</svg>

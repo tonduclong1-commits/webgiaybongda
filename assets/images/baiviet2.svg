@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" width="100%" height="100%">
+    <defs>
+        <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" stop-color="#0f172a"/>
+            <stop offset="100%" stop-color="#1e293b"/>
+        </linearGradient>
+    </defs>
+    <rect width="100%" height="100%" fill="url(#bg)" rx="8"/>
+    
+    <!-- TF Side -->
+    <text x="100" y="60" font-family="'Inter', sans-serif" font-weight="900" font-size="24" fill="#ffffff" text-anchor="middle">ĐINH TF</text>
+    <text x="100" y="85" font-family="'Inter', sans-serif" font-weight="500" font-size="12" fill="#cbd5e1" text-anchor="middle">Sân Cỏ Nhân Tạo</text>
+    <!-- TF Studs draw -->
+    <circle cx="70" cy="140" r="4" fill="#39ff14"/>
+    <circle cx="90" cy="140" r="4" fill="#39ff14"/>
+    <circle cx="110" cy="140" r="4" fill="#39ff14"/>
+    <circle cx="130" cy="140" r="4" fill="#39ff14"/>
+    <circle cx="80" cy="160" r="4" fill="#39ff14"/>
+    <circle cx="100" cy="160" r="4" fill="#39ff14"/>
+    <circle cx="120" cy="160" r="4" fill="#39ff14"/>
+    
+    <!-- Line separator -->
+    <path d="M 200,30 L 200,195" stroke="#475569" stroke-width="1.5" stroke-dasharray="6 6"/>
+
+    <!-- FG Side -->
+    <text x="300" y="60" font-family="'Inter', sans-serif" font-weight="900" font-size="24" fill="#ffffff" text-anchor="middle">ĐINH FG</text>
+    <text x="300" y="85" font-family="'Inter', sans-serif" font-weight="500" font-size="12" fill="#cbd5e1" text-anchor="middle">Sân Cỏ Tự Nhiên</text>
+    <!-- FG Studs draw -->
+    <path d="M 270,140 L 275,160 L 285,160 L 280,140 Z" fill="#ff0055"/>
+    <path d="M 320,140 L 325,160 L 335,160 L 330,140 Z" fill="#ff0055"/>
+</svg>

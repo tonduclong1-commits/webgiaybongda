@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+    <rect width="200" height="200" fill="#f8fafc" rx="12" stroke="#e2e8f0" stroke-width="2"/>
+    <path d="M 30 150 Q 100 155 170 150 L 170 142 Q 100 148 30 142 Z" fill="#475569"/>
+    <path d="M 32 140 Q 55 90 90 85 Q 110 80 135 110 L 168 132 Q 175 142 155 142 Z" fill="#ffffff" stroke="#334155" stroke-width="1.5"/>
+    <path d="M 90 85 Q 105 115 115 130" stroke="#a855f7" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.8"/>
+    <text x="100" y="175" font-family="'Arial', sans-serif" font-size="11" font-weight="900" fill="#1e293b" text-anchor="middle">ASICS GEL GAME GS</text>
+</svg>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+    <rect width="200" height="200" fill="#f8fafc" rx="12" stroke="#e2e8f0" stroke-width="2"/>
+    <path d="M 60 160 L 60 70 Q 60 30, 100 30 Q 140 30, 140 70 L 140 160 Z" fill="#0f172a" stroke="#1e293b" stroke-width="2"/>
+    <path d="M 70 80 L 130 80 L 130 160 L 70 160 Z" fill="#1e293b" opacity="0.2"/>
+    <path d="M 85 30 L 85 20 Q 85 15, 100 15 Q 115 15, 115 20 L 115 30" fill="none" stroke="#475569" stroke-width="3"/>
+    <text x="100" y="185" font-family="'Arial', sans-serif" font-size="11" font-weight="900" fill="#1e293b" text-anchor="middle">JOOLA BACKPACK</text>
+</svg>

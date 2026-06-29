@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+    <rect width="200" height="200" fill="#f8fafc" rx="12" stroke="#e2e8f0" stroke-width="2"/>
+    <circle cx="100" cy="100" r="60" fill="#84cc16" stroke="#475569" stroke-width="2"/>
+    <circle cx="70" cy="70" r="8" fill="#f8fafc" stroke="#475569" stroke-width="1.5"/>
+    <circle cx="100" cy="60" r="8" fill="#f8fafc" stroke="#475569" stroke-width="1.5"/>
+    <circle cx="130" cy="70" r="8" fill="#f8fafc" stroke="#475569" stroke-width="1.5"/>
+    <circle cx="60" cy="100" r="8" fill="#f8fafc" stroke="#475569" stroke-width="1.5"/>
+    <circle cx="100" cy="100" r="8" fill="#f8fafc" stroke="#475569" stroke-width="1.5"/>
+    <circle cx="140" cy="100" r="8" fill="#f8fafc" stroke="#475569" stroke-width="1.5"/>
+    <circle cx="70" cy="130" r="8" fill="#f8fafc" stroke="#475569" stroke-width="1.5"/>
+    <circle cx="100" cy="140" r="8" fill="#f8fafc" stroke="#475569" stroke-width="1.5"/>
+    <circle cx="130" cy="130" r="8" fill="#f8fafc" stroke="#475569" stroke-width="1.5"/>
+    <text x="100" y="180" font-family="'Arial', sans-serif" font-size="10" font-weight="900" fill="#475569" text-anchor="middle">FRANKLIN SIGNATURE</text>
+</svg>

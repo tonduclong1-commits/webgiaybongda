@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+    <rect width="100%" height="100%" fill="#fef2f2" rx="10" stroke="#fca5a5" stroke-width="1.5"/>
+    <path d="M 35 25 L 55 25 C 60 25, 60 45, 60 60 L 60 75 C 60 85, 45 85, 35 75 Z" fill="#ffffff" stroke="#f43f5e" stroke-width="2.5"/>
+    <path d="M 35 25 L 35 75" fill="none" stroke="#cbd5e1" stroke-width="2"/>
+    <text x="50" y="90" font-family="Arial" font-size="7" font-weight="bold" fill="#f43f5e" text-anchor="middle">SPORT SOCKS</text>
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 280 200" width="280" height="200">
+  <defs>
+    <linearGradient id="bg_sh21" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f8fafc"/>
+      <stop offset="100%" stop-color="#e2e8f0"/>
+    </linearGradient>
+    <linearGradient id="body_sh21" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#064e3b"/>
+    </linearGradient>
+    <filter id="shd_sh21">
+      <feDropShadow dx="2" dy="4" stdDeviation="4" flood-color="rgba(0,0,0,0.18)"/>
+    </filter>
+  </defs>
+  <!-- Background -->
+  <rect width="280" height="200" fill="url(#bg_sh21)" rx="12"/>
+  <!-- Sole -->
+  <ellipse cx="148" cy="158" rx="100" ry="12" fill="#064e3b" opacity="0.85"/>
+  <!-- Shoe body -->
+  <path d="M 48 155 Q 50 100 100 80 Q 130 65 170 85 Q 210 100 238 138 Q 248 155 235 158 Z"
+        fill="url(#body_sh21)" stroke="#064e3b" stroke-width="1.5" filter="url(#shd_sh21)"/>
+  <!-- Toe cap highlight -->
+  <path d="M 48 155 Q 50 110 90 88 Q 110 78 130 80 Q 90 90 70 120 Z"
+        fill="#a7f3d0" opacity="0.55"/>
+  <!-- Swoosh / stripe -->
+  <path d="M 120 90 Q 170 100 220 138" stroke="#a7f3d0" stroke-width="8"
+        fill="none" stroke-linecap="round" opacity="0.9"/>
+  <!-- Tongue -->
+  <path d="M 130 80 Q 140 50 155 45 Q 165 43 168 60 Q 162 70 155 78 Z"
+        fill="#10b981" stroke="#a7f3d0" stroke-width="1"/>
+  <!-- Laces -->
+  <line x1="138" y1="75" x2="158" y2="72" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
+  <line x1="140" y1="82" x2="162" y2="79" stroke="#ffffff" stroke-width="2" opacity="0.8"/>
+  <!-- Studs -->
+  <circle cx="75" cy="160" r="4" fill="#a7f3d0" stroke="#064e3b" stroke-width="1"/>
+  <circle cx="110" cy="163" r="4" fill="#a7f3d0" stroke="#064e3b" stroke-width="1"/>
+  <circle cx="150" cy="165" r="4" fill="#a7f3d0" stroke="#064e3b" stroke-width="1"/>
+  <circle cx="190" cy="163" r="4" fill="#a7f3d0" stroke="#064e3b" stroke-width="1"/>
+  <circle cx="225" cy="158" r="4" fill="#a7f3d0" stroke="#064e3b" stroke-width="1"/>
+  <!-- Brand label -->
+  <rect x="8" y="8" width="54" height="22" rx="4" fill="#064e3b" opacity="0.85"/>
+  <text x="35" y="23" font-family="Arial Black, sans-serif" font-size="10" font-weight="900"
+        fill="#a7f3d0" text-anchor="middle" letter-spacing="1">KLM</text>
+  <!-- Number badge -->
+  <rect x="222" y="8" width="50" height="22" rx="4" fill="#10b981" opacity="0.9"/>
+  <text x="247" y="23" font-family="Arial, sans-serif" font-size="10" font-weight="900"
+        fill="#ffffff" text-anchor="middle">#21</text>
+</svg>
